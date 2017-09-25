@@ -1,6 +1,13 @@
 # Programación 2017
 
-Primeros ejercicios para empezar a escribir código en Java.
+Primer _pack_ de ejercicios para empezar a escribir código en Java.
+
+## IntelliJ y GitHub
+
+- Los ejercicios se resolverán usando [IntelliJ IDEA](https://www.jetbrains.com/idea/), creando un proyecto de línea de comandos por cada ejercicio.
+- Siguiendo las normas para el trabajo individual que se explican en [este curso sobre Git](https://edx.egibide.org/courses/course-v1:Egibide+Egibide_Git+2017/about), cada uno trabajará en su propio _fork_ personal de este repositorio y subirá sus soluciones a GitHub.
+
+## Ejercicios
 
 - [Ejercicio 1 - Visualizar mensaje](./01_visualizar_mensaje/).
 - [Ejercicio 2 - Multiplicar dos](./02_multiplicar_dos/).
@@ -22,4 +29,3 @@ Primeros ejercicios para empezar a escribir código en Java.
 - [Ejercicio 18 - ¿Es primo?](./18_es_primo/).
 - [Ejercicio 19 - Lista de números primos](./19_lista_primos/).
 - [Ejercicio 20 - Verificar DNI](./20_verificar_dni/).
-
