@@ -9,10 +9,15 @@ Primer _pack_ de ejercicios para empezar a escribir código en Java.
 
 ## Ejercicios
 
+### Elementos básicos
+
 - [Ejercicio 1 - Visualizar mensaje](./01_visualizar_mensaje/).
 - [Ejercicio 2 - Multiplicar dos](./02_multiplicar_dos/).
 - [Ejercicio 3 - Orden inverso](./03_orden_inverso/).
 - [Ejercicio 4 - Área de un triángulo](./04_area_triangulo/).
+
+### Estructuras de control
+
 - [Ejercicio 5 - Día de la semana](./05_dia_semana/).
 - [Ejercicio 6 - Par-impar](./06_par_impar/).
 - [Ejercicio 7 - Valor absoluto](./07_valor_absoluto/).
