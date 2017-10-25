@@ -19,21 +19,20 @@ public class Main {
                     System.out.print(" No hay vueltas. ");
                 } else {
                     vueltas = vueltas / 200;
-                    System.out.print(" Las vueltas en monedas de dos euros son " + vueltas );
+                    System.out.println(" Las vueltas en monedas de dos euros son " + vueltas );
                     vueltas = vueltas % 200;
                     vueltas = vueltas / 100;
+                    System.out.println(" Las vueltas en monedas de euro son " + vueltas);
                     vueltas = vueltas % 100;
-                    System.out.print(" Las vueltas en monedas de euro son " + vueltas);
                     vueltas = vueltas / 50;
+                    System.out.println(" Las vueltas en monedas de cincuenta centimos son " + vueltas);
                     vueltas = vueltas % 50;
-                    System.out.print(" Las vueltas en monedas de cincuenta centimos son " + vueltas);
                     vueltas = vueltas / 20;
+                    System.out.println(" Las vueltas en monedas de veinte centimos son " + vueltas);
                     vueltas = vueltas % 20;
-                    System.out.print(" Las vueltas en monedas de veinte centimos son " + vueltas);
                     vueltas = vueltas / 10;
+                    System.out.println(" Las vueltas en monedas de diez centimos son " + vueltas);
                     vueltas = vueltas % 10;
-                    System.out.print(" Las vueltas en monedas de diez centimos son " + vueltas);
                     vueltas = vueltas / 5;
-                    vueltas = vueltas % 5;
-                    System.out.print(" Las vueltas en monedas de cinco centimos son " + vueltas);
+                    System.out.println(" Las vueltas en monedas de cinco centimos son " + vueltas);
                 }}}
